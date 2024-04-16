@@ -1,5 +1,5 @@
 # fashionista-online-shopping
-FASHIONISTA online shopping website
+Trang web bán đồ thời trang - Bài tập lớn môn Lập Trình WEB
 
 
 
